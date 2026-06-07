@@ -234,3 +234,6 @@ book_reader/
 - MOBI/AZW 格式仅基础元数据支持，建议转为 EPUB 后导入获得完整体验
 - 数据库文件 `library.db` 和 `library/` 目录是核心数据，备份时请保留
 - 分类表中的默认分类可按需修改或删除
+
+## 效果展示     
+<img width="2559" height="1526" alt="屏幕截图 2026-06-07 095120" src="https://github.com/user-attachments/assets/6818a5e0-a69b-41ca-9fac-5d4e6af48263" />
